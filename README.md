@@ -15,6 +15,8 @@ Make sure the folder structure look like this
 ├───utils
 │   └───__pycache__
 └───weights
+    └───best_car.pt
+    └───best_person.pt
 ```
 
 ## Downloading the Weights
