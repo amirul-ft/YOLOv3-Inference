@@ -12,12 +12,12 @@ This repository is created as the Material for the Professional Ethic Course of 
 Make sure the folder structure look like this
 ```
 YOLOv3-Inference
-├───cfg
-├───utils
-│   └───__pycache__
-└───weights
-    ├───best_car.pt
-    └───best_person.pt
+    ├───cfg
+    ├───utils
+    │   └───__pycache__
+    └───weights
+        ├───best_car.pt
+        └───best_person.pt
 ```
 
 ## Downloading the Weights
