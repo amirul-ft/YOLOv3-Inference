@@ -15,10 +15,12 @@ Make sure the folder structure look like this
 YOLOv3-Inference
     ├───cfg
     ├───utils
-    │   └───__pycache__
-    └───weights
-        ├───best_car.pt
-        └───best_person.pt
+    ├───weights
+    │   ├───best_car.pt
+    │   └───best_person.pt
+    ├───detect.py
+    ├───inference.ipynb
+    └───models.py
 ```
 
 ## Downloading the Weights
