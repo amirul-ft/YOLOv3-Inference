@@ -23,9 +23,6 @@ Make sure the folder structure look like this
 │   ├── yolov3-tiny3-DMC.cfg
 │   ├── yolov3-tiny3.cfg
 │   └── yolov3.cfg
-├── detect.py
-├── inference.ipynb
-├── models.py
 ├── utils
 │   ├── adabound.py
 │   ├── continual_utils.py
@@ -37,9 +34,12 @@ Make sure the folder structure look like this
 │   ├── parse_config.py
 │   ├── torch_utils.py
 │   └── utils.py
-└── weights
+├── weights
     ├── best_car.pt
     └── best_person.pt
+├── detect.py
+├── inference.ipynb
+└── models.py
 ```
 
 ## Downloading the Weights
