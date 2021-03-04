@@ -2,11 +2,11 @@
 This repository is created as the Material for the Professional Ethic Course of FT-UMS.
 
 ## Requirements
-Pytorch 1.4.0 or above
-Numpy
-Matplotlib
-OpenCV (cv2)
-Jupyter Notebook
+1. Pytorch 1.4.0 or above
+2. Numpy
+3. Matplotlib
+4. OpenCV (cv2)
+5. Jupyter Notebook
 
 ## Project Setup
 Make sure the folder structure look like this
