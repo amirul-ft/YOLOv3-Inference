@@ -10,7 +10,8 @@ This repository is created as the Material for the Professional Ethic Course of 
 
 ## Project Setup
 Make sure the folder structure look like this
-```YOLOv3-Inference
+```
+YOLOv3-Inference
 ├───cfg
 ├───utils
 │   └───__pycache__
